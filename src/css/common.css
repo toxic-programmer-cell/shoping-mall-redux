@@ -1,0 +1,14 @@
+.nav-container{
+    padding: 2rem 4rem;
+    width: 100%;
+    background: linear-gradient(45deg, #f29090, #e7a722);
+}
+.main-container{
+    padding: 6px 116px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 90px;
+}
+.heading{
+    font-size: 1.5rem;
+}
